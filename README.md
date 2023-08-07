@@ -5,10 +5,9 @@
 
 * Date	Version	Description
 * July 4, 2023	V1.0	Initial release
-		
 
+----
 ## Introduction
-
 
 DeskPi MicroCar is a multi-functional and multi-purpose intelligent cart, Based on microbit. 
 it has on-board motors, ultrasonic, and other sensors, programmed and controlled by Makecode, adoption of graphical programming language. This car especially suitable for students with zero or weak programming fundamentals. This car contains the introduction of the use of independent modules on the trolley and the introduction of comprehensive application cases, first learn the basics, and then comprehensive application, step by step, to enhance the students' hands-on and programming capabilities.
