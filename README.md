@@ -1,15 +1,18 @@
 # DeskPi MicroCar 
 ![MicroCar](./DP-0021-01.jpg)
 
-##　Revision History
+## Revision History
+
 * Date	Version	Description
 * July 4, 2023	V1.0	Initial release
 		
 ##　Introduction
+
 DeskPi MicroCar is a multi-functional and multi-purpose intelligent cart, Based on microbit. 
 it has on-board motors, ultrasonic, and other sensors, programmed and controlled by Makecode, adoption of graphical programming language. This car especially suitable for students with zero or weak programming fundamentals. This car contains the introduction of the use of independent modules on the trolley and the introduction of comprehensive application cases, first learn the basics, and then comprehensive application, step by step, to enhance the students' hands-on and programming capabilities.
 
 ## Key Features
+
 * Designed for Microbit
 * All modules are pre-wired
 * 9 types easy-to-use modules
@@ -27,6 +30,7 @@ it has on-board motors, ultrasonic, and other sensors, programmed and controlled
 * with 4 x M3 structural extension threaded holes
 
 ## What’s Included
+
 * 1 x Micro:bit
 * 1 x DeskPi MicroCar
 * 1 x OLED Desplay
